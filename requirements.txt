@@ -1,0 +1,5 @@
+requests
+spotipy
+python-dotenv
+deezer-python
+deezer-oauth-cli
